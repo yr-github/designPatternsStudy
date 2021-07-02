@@ -1,0 +1,15 @@
+//
+// Created by adele_yr on 2021/7/2.
+//
+
+#ifndef DESIGNPATTERNSSTUDY_SIMPLEFACTORY_H
+#define DESIGNPATTERNSSTUDY_SIMPLEFACTORY_H
+
+
+class simpleFactory {
+    
+
+};
+
+
+#endif //DESIGNPATTERNSSTUDY_SIMPLEFACTORY_H
